@@ -5,8 +5,12 @@
    ========================================================================== */
 
 
-
-
+.jumbotron {
+  background-color: lightblue;
+}
+footer {
+  background-color: lightblue;
+}
 
 
 
